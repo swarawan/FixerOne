@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FixerOne</string>
+
+    <string name="input_value">Input Value</string>
+    <string name="input_result">Result</string>
+    <string name="error_failed_get_rate">Failed to get rates</string>
+</resources>
